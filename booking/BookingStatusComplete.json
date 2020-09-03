@@ -1,0 +1,40 @@
+{
+	"headerTitle":"ID: XXX19070001",
+	"workerInfo":[
+			{
+			"workerImage":"https://www.serviceone.app/images/johnny.png",
+			"workerName":"Mr.johnny D",
+			"starRate":"https://www.serviceone.app/images/star.png",
+			"jobsDone":"342 JOBS DONE",
+			"distance":"1.6"
+			}
+		],
+	"service":[
+			{
+			"serviceTitle":"SERVICE DATE",
+			"serviceDetail":"15 February 2020 (Now)",
+			"serviceIcon":"https://www.serviceone.app/images/calender.png"
+			},
+			{
+			"serviceTitle":"SERVICE LOCATION",
+			"serviceDetail":"77/3  Central Bangna, Bangna-Trad Rd. Bangkok",
+			"serviceIcon":"https://www.serviceone.app/images/locationpin.png"
+			},
+			{
+			"serviceTitle":"SERVICE TIME",
+			"serviceDetail":"14.00 - 16.00 HRS.",
+			"serviceIcon":"https://www.serviceone.app/images/clock.png"
+			},  
+			{
+			"serviceTitle":"PRICE",
+			"serviceDetail":"ß 450.-",
+			"serviceIcon":"https://www.serviceone.app/images/price.png"
+			}
+		],
+	"statusBarColor":"#328345",
+	"statusBarTitle":"COMPLETE",
+	"btnOneTitle":"SELL ALL BOOKING",
+    "btnOneLink": "BookingStatusCompletedScreen",
+	"btnTwoTitle":"REVIEWS",
+    "btnTwoLink": "ReviewScreen"   
+}

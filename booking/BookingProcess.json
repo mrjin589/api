@@ -1,0 +1,33 @@
+{
+	"headerTitle":"FIXING",
+	"pageTitle":"YOU ARE ON BOOKING",
+	"pageSubTitle":"ELECTRICAL",
+	"workerInfo":[
+			{
+			"workerImage":"https://www.serviceone.app/images/johnny.png",
+			"workerName":"Mr.johnny D",
+			"starRate":"https://www.serviceone.app/images/star.png",
+			"jobsDone":"342 JOBS DONE",
+			"distance":"1.6"
+			}
+		],
+	"service":[
+			{
+			"serviceTitle":"SERVICE DATE",
+			"serviceDetail":"15 February 2020 (Now)",
+			"serviceIcon":"https://www.serviceone.app/images/calender.png"
+			},
+			{
+			"serviceTitle":"SERVICE LOCATION",
+			"serviceDetail":"77/3  Central Bangna, Bangna-Trad Rd. Bangkok",
+			"serviceIcon":"https://www.serviceone.app/images/locationpin.png"
+			},
+			{
+			"serviceTitle":"SERVICE TIME",
+			"serviceDetail":"14.00 - 16.00 HRS.",
+			"serviceIcon":"https://www.serviceone.app/images/clock.png"
+			}   
+		],
+	"btnOneTitle":"CONFIRM BOOKING",
+    "btnOneLink": "BookingStatusAllScreen"   
+}

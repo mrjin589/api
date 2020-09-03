@@ -1,0 +1,35 @@
+{
+	"title":"FIXING",
+	"mapResult":"https://www.serviceone.app/images/mapresult.png",
+	"mapLink":"ResultListScreen",
+	"location":"xx.xxxxxx",
+	"workers":"33",
+	"latitude":"18.766674",
+	"longitude":"98.985852",
+	"workerCardList":[
+		{
+		"workerLink":"WorkersInfoScreen",
+		"workerImage":"https://www.serviceone.app/images/johnny.png",
+		"workerName":"Mr.johnny D",
+		"starRate":"https://www.serviceone.app/images/star.png",
+		"jobsDone":"342 JOBS DONE",
+		"distance":"1.6"
+		},	
+		{
+		"workerLink":"WorkersInfoScreen",
+		"workerImage":"https://www.serviceone.app/images/johnny.png",
+		"workerName":"Mr.johnny E",
+		"starRate":"https://www.serviceone.app/images/star.png",
+		"jobsDone":"342 JOBS DONE",
+		"distance":"1.6"
+		},
+		{
+		"workerLink":"WorkersInfoScreen",
+		"workerImage":"https://www.serviceone.app/images/johnny.png",
+		"workerName":"Mr.johnny F",
+		"starRate":"https://www.serviceone.app/images/star.png",
+		"jobsDone":"342 JOBS DONE",
+		"distance":"1.6"
+		}
+	]
+}

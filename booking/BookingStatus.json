@@ -1,0 +1,36 @@
+{
+	"headerTitle":"MY BOOKING2",
+	"worksStatus":[
+			{
+			"worksLink":"BookingStatusComingScreen",
+			"worksTitle":"95 ALL WORKS",
+			"worksImage":"https://www.serviceone.app/images/bluecircle.png",
+			"worksColor":"#163460"
+			},
+			{
+			"worksLink":"BookingStatusComingScreen",
+			"worksTitle":"40 WORKS COMPLETED",
+			"worksImage":"https://www.serviceone.app/images/greencircle.png",
+			"worksColor":"#328345"
+			},
+			{
+			"worksLink":"BookingStatusComingScreen",
+			"worksTitle":"25 WORKING",
+			"worksImage":"https://www.serviceone.app/images/bluecircle.png",
+			"worksColor":"#3086CA"
+			},
+			{
+			"worksLink":"BookingStatusComingScreen",
+			"worksTitle":"20 WORKS COMING",
+			"worksImage":"https://www.serviceone.app/images/yellowcircle.png",
+			"worksColor":"#E4A437"
+			},
+			{
+			"worksLink":"BookingStatusComingScreen",
+			"worksTitle":"10 WORKS CONCELLED",
+			"worksImage":"https://www.serviceone.app/images/redcircle.png",
+			"worksColor":"#E80B0B"
+			}
+		
+		]
+}

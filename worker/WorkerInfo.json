@@ -1,0 +1,40 @@
+{
+	
+	"workerInfo":[
+			{
+			"workerImage":"https://www.serviceone.app/images/johnny.png",
+			"workerName":"Mr.johnny D",
+			"starRate":"https://www.serviceone.app/images/star.png",
+			"jobsDone":"342 JOBS DONE",
+			"distance":"1.6",
+			"expertise1":"https://www.serviceone.app/images/expertise1.png",
+			"expertise2":"https://www.serviceone.app/images/expertise2.png",
+			"expertise3":"https://www.serviceone.app/images/expertise3.png",
+			"expertise4":"https://www.serviceone.app/images/expertise4.png"
+			}
+		],
+	"workerDetail":[
+			{
+			"detailTitle":"expertise",
+			"detailText":"Electical Fixing"
+			},
+			{
+			"detailTitle":"Last job",
+			"detailText":"23 Hours ago"
+			},
+			{
+			"detailTitle":"Comment",
+			"detailText":"Great Work"
+			},
+			{
+			"detailTitle":"Sexual",
+			"detailText":"Male"
+			},
+			{
+			"detailTitle":"Charge",
+			"detailText":"400 THB"
+			}
+		],
+	"btnOneTitle":"B 375-450 BOOK NOW",
+    "btnOneLink": "BookingProcessScreen"   
+}

@@ -1,0 +1,15 @@
+{
+    "backgroundImage":"https://www.serviceone.app/images/bg01.png",
+	"infoUserIcon":"https://www.serviceone.app/images/usericon.png",
+	"infoUserTitle":"   Phone / Username",
+    "infoUserDefault":" Name-Lastname",	
+	"infoPasswordIcon":"https://www.serviceone.app/images/lock-icon.png",
+	"infoPasswordTitle":"   Password",
+    "infoPasswordDefault":" xxxxxxxxxxxxxx",	
+
+	"btnOneTitle":"LOGIN",
+    "btnOneLink": "CategoriesListScreen",
+    "btnTwoTitle": "NEW MEMBER",
+    "btnTwoLink": "MemberTypeScreen"
+    
+}

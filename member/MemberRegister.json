@@ -1,0 +1,17 @@
+{
+    "backgroundImage":"https://www.serviceone.app/images/bg01.png",
+	"infoUserIcon":"https://www.serviceone.app/images/usericon.png",
+	"infoUserTitle":"   Full Name",
+    "infoUserDefault":" Name-Lastname",	
+	"infoEmailIcon":"https://www.serviceone.app/images/Mail.png",
+    "infoEmailTitle":"   E-mail",
+    "infoEmailDefault":" your@email.com",
+	"infoPasswordIcon":"https://www.serviceone.app/images/lock-icon.png",
+	"infoPasswordTitle":"   Password",
+    "infoPasswordDefault":" xxxxxxxxxxxxxx",
+	"infoMobileIcon":"https://www.serviceone.app/images/Mobile.png",
+    "infoMobileTitle":"   Mobile Number",
+    "infoMobileDefault":" 088-888-8888",
+	"btnOneTitle":"CREATE ACCOUNT",
+    "btnOneLink": "MemberLoginScreen"   
+}

@@ -1,0 +1,11 @@
+{
+	"title":"Who are you?",	
+    "backgroundImage":"https://www.serviceone.app/images/bg01.png",
+	"topBtnLink":"MemberLoginScreen",
+	"topBtnImage":"https://www.serviceone.app/images/post_project.png",
+	"topBtnTitle":"POST PROJECT",
+	"bottomBtnLink":"MemberLoginScreen",
+	"bottomBtnImage":"https://www.serviceone.app/images/find_job.png",
+	"bottomBtnTitle":"FIND A JOB"
+    
+}
