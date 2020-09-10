@@ -2,9 +2,9 @@
 	"headerTitle":"ID: XXX19070001",
 	"workerInfo":[
 			{
-			"workerImage":"https://www.serviceone.app/images/johnny.png",
+			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
 			"workerName":"Mr.johnny D",
-			"starRate":"https://www.serviceone.app/images/star.png",
+			"starRate":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/star.png",
 			"jobsDone":"342 JOBS DONE",
 			"distance":"1.6"
 			}
@@ -13,22 +13,22 @@
 			{
 			"serviceTitle":"SERVICE DATE",
 			"serviceDetail":"15 February 2020 (Now)",
-			"serviceIcon":"https://www.serviceone.app/images/calender.png"
+			"serviceIcon":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/calender.png"
 			},
 			{
 			"serviceTitle":"SERVICE LOCATION",
 			"serviceDetail":"77/3  Central Bangna, Bangna-Trad Rd. Bangkok",
-			"serviceIcon":"https://www.serviceone.app/images/locationpin.png"
+			"serviceIcon":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/locationpin.png"
 			},
 			{
 			"serviceTitle":"SERVICE TIME",
 			"serviceDetail":"14.00 - 16.00 HRS.",
-			"serviceIcon":"https://www.serviceone.app/images/clock.png"
+			"serviceIcon":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/clock.png"
 			},  
 			{
 			"serviceTitle":"PRICE",
-			"serviceDetail":"ß 450.-",
-			"serviceIcon":"https://www.serviceone.app/images/price.png"
+			"serviceDetail":"ï¿½ 450.-",
+			"serviceIcon":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/price.png"
 			}
 		],
 	"statusBarColor":"#E09414",

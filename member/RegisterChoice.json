@@ -1,11 +1,11 @@
 {
 	"title":"Who are you?",	
-    "backgroundImage":"https://www.serviceone.app/images/bg01.png",
+    "backgroundImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/bg01.png",
 	"topBtnLink":"MemberLoginScreen",
-	"topBtnImage":"https://www.serviceone.app/images/Group161.png",
+	"topBtnImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/Group161.png",
 	"topBtnTitle":"MEMBER ALREADY",
 	"bottomBtnLink":"MemberRegisterScreen",
-	"bottomBtnImage":"https://www.serviceone.app/images/Group162.png",
+	"bottomBtnImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/Group162.png",
 	"bottomBtnTitle":"NOT YET A MEMBER"
     
 }

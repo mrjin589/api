@@ -1,9 +1,9 @@
 {
-    "backgroundImage":"https://www.serviceone.app/images/bg01.png",
-	"infoUserIcon":"https://www.serviceone.app/images/usericon.png",
+    "backgroundImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/bg01.png",
+	"infoUserIcon":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/usericon.png",
 	"infoUserTitle":"   Phone / Username",
     "infoUserDefault":" Name-Lastname",	
-	"infoPasswordIcon":"https://www.serviceone.app/images/lock-icon.png",
+	"infoPasswordIcon":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/lock-icon.png",
 	"infoPasswordTitle":"   Password",
     "infoPasswordDefault":" xxxxxxxxxxxxxx",	
 

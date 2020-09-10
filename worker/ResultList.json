@@ -1,6 +1,6 @@
 {
 	"title":"FIXING",
-	"mapResult":"https://www.serviceone.app/images/mapresult.png",
+	"mapResult":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/mapresult.png",
 	"mapLink":"ResultListScreen",
 	"location":"xx.xxxxxx",
 	"workers":"33",
@@ -9,25 +9,25 @@
 	"workerCardList":[
 		{
 		"workerLink":"WorkersInfoScreen",
-		"workerImage":"https://www.serviceone.app/images/johnny.png",
+		"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
 		"workerName":"Mr.johnny D",
-		"starRate":"https://www.serviceone.app/images/star.png",
+		"starRate":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/star.png",
 		"jobsDone":"342 JOBS DONE",
 		"distance":"1.6"
 		},	
 		{
 		"workerLink":"WorkersInfoScreen",
-		"workerImage":"https://www.serviceone.app/images/johnny.png",
+		"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
 		"workerName":"Mr.johnny E",
-		"starRate":"https://www.serviceone.app/images/star.png",
+		"starRate":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/star.png",
 		"jobsDone":"342 JOBS DONE",
 		"distance":"1.6"
 		},
 		{
 		"workerLink":"WorkersInfoScreen",
-		"workerImage":"https://www.serviceone.app/images/johnny.png",
+		"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
 		"workerName":"Mr.johnny F",
-		"starRate":"https://www.serviceone.app/images/star.png",
+		"starRate":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/star.png",
 		"jobsDone":"342 JOBS DONE",
 		"distance":"1.6"
 		}

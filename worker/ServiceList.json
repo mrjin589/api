@@ -3,22 +3,22 @@
 	"categoryList" : [
 		{
 			"categoryName":"Fixing",
-			"categoryImage":"https://www.serviceone.app/images/fix.png",
+			"categoryImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/fix.png",
 			"noOfWorker": 800
 		},
 		{
 		"categoryName":"Transportation",
-		"categoryImage":"https://www.serviceone.app/images/transport.png",
+		"categoryImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/transport.png",
 		"noOfWorker": 950
 		},
 		{
 		"categoryName":"Car slide on 2",
-		"categoryImage":"https://www.serviceone.app/images/transport.png",
+		"categoryImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/transport.png",
 		"noOfWorker": 950
 		},
 		{
 		"categoryName":"Capenter",
-		"categoryImage":"https://www.serviceone.app/images/fix.png",
+		"categoryImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/fix.png",
 		"noOfWorker": 950
 		}
 	 ]

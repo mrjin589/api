@@ -2,15 +2,15 @@
 	
 	"workerInfo":[
 			{
-			"workerImage":"https://www.serviceone.app/images/johnny.png",
+			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
 			"workerName":"Mr.johnny D",
-			"starRate":"https://www.serviceone.app/images/star.png",
+			"starRate":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/star.png",
 			"jobsDone":"342 JOBS DONE",
 			"distance":"1.6",
-			"expertise1":"https://www.serviceone.app/images/expertise1.png",
-			"expertise2":"https://www.serviceone.app/images/expertise2.png",
-			"expertise3":"https://www.serviceone.app/images/expertise3.png",
-			"expertise4":"https://www.serviceone.app/images/expertise4.png"
+			"expertise1":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/expertise1.png",
+			"expertise2":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/expertise2.png",
+			"expertise3":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/expertise3.png",
+			"expertise4":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/expertise4.png"
 			}
 		],
 	"workerDetail":[

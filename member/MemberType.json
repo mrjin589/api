@@ -1,11 +1,11 @@
 {
 	"title":"Who are you?",	
-    "backgroundImage":"https://www.serviceone.app/images/bg01.png",
+    "backgroundImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/bg01.png",
 	"topBtnLink":"MemberLoginScreen",
-	"topBtnImage":"https://www.serviceone.app/images/post_project.png",
+	"topBtnImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/post_project.png",
 	"topBtnTitle":"POST PROJECT",
 	"bottomBtnLink":"MemberLoginScreen",
-	"bottomBtnImage":"https://www.serviceone.app/images/find_job.png",
+	"bottomBtnImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/find_job.png",
 	"bottomBtnTitle":"FIND A JOB"
     
 }
