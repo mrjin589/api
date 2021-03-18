@@ -4,7 +4,7 @@
 	"bookingStatus":[
 			{
 			"bookingLink":"BookingStatusScreen",
-			"bookingTitle":"ELECTRICAL1 - XXX19070256",
+			"bookingTitle":"ELECTRICAL12345 - XXX19070256",
 			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
 			"bookingDate":"22 February 2020",
 			"address":"1234 Pathumwan Bangkok",
