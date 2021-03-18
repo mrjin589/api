@@ -29,41 +29,6 @@
 			"status":"COMING",
 			"price":"B 450.-"
 			},
-			{
-			"bookingLink":"BookingStatusScreen",
-			"bookingTitle":"ELECTRICAL3 - XXX19070256",
-			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
-			"bookingDate":"22 February 2020",
-			"address":"1234 Pathumwan Bangkok",
-			"status":"COMING",
-			"price":"B 450.-"
-			},
-			{
-			"bookingLink":"BookingStatusScreen",
-			"bookingTitle":"ELECTRICAL4 - XXX19070256",
-			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
-			"bookingDate":"22 February 2020",
-			"address":"1234 Pathumwan Bangkok",
-			"status":"COMING",
-			"price":"B 450.-"
-			},
-			{
-			"bookingLink":"BookingStatusScreen",
-			"bookingTitle":"ELECTRICAL5 - XXX19070256",
-			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
-			"bookingDate":"22 February 2020",
-			"address":"1234 Pathumwan Bangkok",
-			"status":"COMING",
-			"price":"B 450.-"
-			},
-			{
-			"bookingLink":"BookingStatusScreen",
-			"bookingTitle":"ELECTRICAL6 - XXX19070256",
-			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
-			"bookingDate":"22 February 2020",
-			"address":"1234 Pathumwan Bangkok",
-			"status":"COMING",
-			"price":"B 450.-"
-			}
+			
 		]
 }
