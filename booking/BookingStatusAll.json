@@ -3,13 +3,13 @@
 	"pageTitle":"ALL STATUS",
 	"bookingStatus":[
 			{
-			"bookingLink":"BookingStatusScreen",
-			"bookingTitle":"ELECTRICAL12345 - XXX19070256",
-			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
+			"bookingLink":"SecondScreen",
+			"bookingTitle":"E Boo",
+			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1616073067/images/E_Boo.jpg",
 			"bookingDate":"22 February 2020",
 			"address":"1234 Pathumwan Bangkok",
-			"status":"COMING",
-			"price":"B 450.-"
+			"status":"Still Alive ",
+			"price":"10 Items"
 			},
 			{
 			"bookingLink":"BookingStatusScreen",
