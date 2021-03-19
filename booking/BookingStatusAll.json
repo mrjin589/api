@@ -3,31 +3,34 @@
 	"pageTitle":"ALL STATUS",
 	"bookingStatus":[
 			{
-			"bookingLink":"SecondScreen",
-			"bookingTitle":"E Boo",
-			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1616073067/images/E_Boo.jpg",
-			"bookingDate":"22 February 2020",
+			"screenLink":"SecondScreen",
+			"itemName":"E Boo",
+			"itemImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1616073067/images/E_Boo.jpg",
+			"itemBDate":"22 February 2020",
+			"appointmentDate":"22 May 2021",
 			"address":"1234 Pathumwan Bangkok",
 			"status":"Still Alive ",
 			"price":"10 Items"
 			},
 			{
-			"bookingLink":"BookingStatusScreen",
-			"bookingTitle":"ELECTRICAL2 - XXX19070256",
-			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
-			"bookingDate":"22 February 2020",
+			"screenLink":"SecondScreen",
+			"itemName":"E Beaw",
+			"itemImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1616159278/images/E_Baew.jpg",
+			"itemBDate":"22 February 2020",
+			"appointmentDate":"22 May 2021",
 			"address":"1234 Pathumwan Bangkok",
-			"status":"COMING",
-			"price":"B 450.-"
+			"status":"Still Alive ",
+			"price":"10 Items"
 			},
 			{
-			"bookingLink":"BookingStatusScreen",
-			"bookingTitle":"ELECTRICAL8 - XXX19070256",
-			"workerImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1599777896/images/johnny.png",
-			"bookingDate":"22 February 2020",
+			"screenLink":"SecondScreen",
+			"itemName":"E Boo",
+			"itemImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1616073067/images/E_Boo.jpg",
+			"itemBDate":"22 February 2020",
+			"appointmentDate":"22 May 2021",
 			"address":"1234 Pathumwan Bangkok",
-			"status":"COMING",
-			"price":"B 450.-"
+			"status":"Still Alive ",
+			"price":"10 Items"
 			}
 			
 		]
