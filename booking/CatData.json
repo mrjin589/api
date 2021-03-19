@@ -3,6 +3,7 @@
 	"pageTitle":"ALL STATUS",
 	"bookingStatus":[
 			{
+			"catID":"10010001",
 			"screenLink":"SecondScreen",
 			"catName":"E Boo",
 			"catImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1616073067/images/E_Boo.jpg",
@@ -13,6 +14,7 @@
 			"price":"10 Items"
 			},
 			{
+			"catID":"10010002",
 			"screenLink":"SecondScreen",
 			"catName":"E Beaw",
 			"catImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1616159278/images/E_Baew.jpg",
@@ -23,6 +25,7 @@
 			"price":"10 Items"
 			},
 			{
+			"catID":"10010003",
 			"screenLink":"SecondScreen",
 			"catName":"E Boo",
 			"catImage":"https://res.cloudinary.com/dehpplnnt/image/upload/v1616073067/images/E_Boo.jpg",
