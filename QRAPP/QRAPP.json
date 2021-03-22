@@ -16,7 +16,7 @@
       {
          "Id":3,
          "Title":"แมว",
-         "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum consectetur sapien nec imperdiet.",,
+         "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum consectetur sapien nec imperdiet.",
          "CategoryId":3,
          "IsActive":true,
          "CreatedDate":"\/Date(1616148311900)\/",
@@ -27,7 +27,7 @@
       {
          "Id":4,
          "Title":"หมา",
-         "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum consectetur sapien nec imperdiet.",,
+         "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum consectetur sapien nec imperdiet.",
          "CategoryId":1,
          "IsActive":true,
          "CreatedDate":"\/Date(1616213075893)\/",
@@ -38,7 +38,7 @@
       {
          "Id":5,
          "Title":"ปลา",
-         "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum consectetur sapien nec imperdiet.",,
+         "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum consectetur sapien nec imperdiet.",
          "CategoryId":1,
          "IsActive":true,
          "CreatedDate":"\/Date(1616213078833)\/",
@@ -49,7 +49,7 @@
       {
          "Id":6,
          "Title":"อาหารแมว",
-         "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum consectetur sapien nec imperdiet.",,
+         "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum consectetur sapien nec imperdiet.",
          "CategoryId":2,
          "IsActive":true,
          "CreatedDate":"\/Date(1616214079210)\/",
